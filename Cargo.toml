@@ -1,0 +1,6 @@
+[package]
+name = "hangman2"
+version = "0.1.0"
+authors = ["ydaniju <yusuf.daniju@andela.com>"]
+
+[dependencies]
